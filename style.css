@@ -1,0 +1,37 @@
+body{
+  background-color: rgb(225, 225, 225);
+}
+#main{
+  justify-content: center;
+}
+#title{
+  text-align: center;
+  font-size: 40px;
+  font-family: sans;
+}
+#prag-cap{
+  font-family: cursive;
+  text-align: center;
+}
+#img-div{
+  background-color: white;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+#image{
+ max-width: 750px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#img-caption{
+  text-align: center;
+  font-family: cursive;
+}
+#tribute-info{
+   
+}
+#tribute-link{
+  font-family: monospace;
+}
